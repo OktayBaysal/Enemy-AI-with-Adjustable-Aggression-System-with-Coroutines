@@ -6,8 +6,12 @@ That was a great training for me, but it took a lot of time and energy. Event th
 
 In my researches, I encountered the use of coroutines in simple behaviour scripts. The logic was simple: Using a while loop with "yield return null" inside of the coroutines created a mini update function for our use.
 
+<tr>
+
 ![](https://github.com/OktayBaysal/Enemy-AI-with-Adjustable-Aggression-System-with-Coroutines/blob/main/GIFs/CoroutineAI.Agile.gif)
 
+</tr> 
+  
 <tr>
 
 ![](https://github.com/OktayBaysal/Enemy-AI-with-Adjustable-Aggression-System-with-Coroutines/blob/main/GIFs/CoroutineAI.Slow.gif)
