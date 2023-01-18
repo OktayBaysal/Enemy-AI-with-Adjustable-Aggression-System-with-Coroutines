@@ -8,8 +8,10 @@ In my researches, I encountered the use of coroutines in simple behaviour script
 
 ![](https://github.com/OktayBaysal/Enemy-AI-with-Adjustable-Aggression-System-with-Coroutines/blob/main/GIFs/CoroutineAI.Agile.gif)
 
+<tr>
 
 ![](https://github.com/OktayBaysal/Enemy-AI-with-Adjustable-Aggression-System-with-Coroutines/blob/main/GIFs/CoroutineAI.Slow.gif)
 
-
+</tr>
+  
 And these two are the result!
